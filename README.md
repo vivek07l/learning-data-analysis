@@ -17,11 +17,11 @@ Learning data analysis, visualization, statistics, and ML foundations using Pyth
 
 ## Repository Structure
 
- learning-data-analysis
-    notebooks   -- Jupyter notebooks
-    datasets    -- Small datasets
-    images      -- plots/screenshots for README
-    scripts     -- pure Python scripts
+ learning-data-analysis/
+    notebooks/   -- Jupyter notebooks
+    datasets/    -- Small datasets
+    images/      -- plots/screenshots for README
+    scripts/     -- pure Python scripts
     README.md    
 
 
